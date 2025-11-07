@@ -30,8 +30,8 @@ Atualmente, estou focado em aprimorar meus conhecimentos em **desenvolvimento we
 ### 🌐 Conecte-se comigo
 <div>
   <a href="https://www.instagram.com/helio_codiceira/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white>
-  </a>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/helio-codeceira-547b18338/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
