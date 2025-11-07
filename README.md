@@ -1,9 +1,9 @@
 ## 👋 Olá, eu sou Hélio Codiceira!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac e apaixonado por tecnologia e inovação.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no Faculdade Senac e apaixonado por tecnologia e inovação.  
 Busco constantemente aprimorar minhas habilidades e desenvolver soluções criativas e funcionais que gerem impacto real.
 
-Tenho experiência com **HTML e CSS (avançado)**, **JavaScript** e **Python (nível intermediário)**, além de conhecimentos em **SQL**, **Git/GitHub**, **Java**, **React** e **Node.js**.  
+Tenho experiência com **React**, **Node.js** **HTML e CSS (avançado)**, **JavaScript** e **Python (nível intermediário)**, além de conhecimentos em **SQL**, **Git/GitHub**, **Java**.  
 Gosto de atuar tanto no **front-end** quanto no **back-end**, aplicando boas práticas de código limpo e princípios sólidos de desenvolvimento.
 
 Atualmente, estou focado em aprimorar meus conhecimentos em **desenvolvimento web e mobile**, com o objetivo de me tornar um desenvolvedor completo e preparado para os desafios do mercado.
@@ -32,7 +32,7 @@ Atualmente, estou focado em aprimorar meus conhecimentos em **desenvolvimento we
   <a href="https://www.instagram.com/helio_codiceira/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white>
   </a>
-  <a href="https://www.linkedin.com/in/evaldo-venceslau/" target="_blank">
+  <a href="https://www.linkedin.com/in/helio-codeceira-547b18338/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
