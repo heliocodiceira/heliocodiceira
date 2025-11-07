@@ -29,8 +29,8 @@ Atualmente, estou focado em aprimorar meus conhecimentos em **desenvolvimento we
 
 ### 🌐 Conecte-se comigo
 <div>
-  <a href="https://www.instagram.com/noninhovenceslau/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/helio_codiceira/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white>
   </a>
   <a href="https://www.linkedin.com/in/evaldo-venceslau/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
